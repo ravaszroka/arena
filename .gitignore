@@ -1,0 +1,8 @@
+# arena git ignore list
+.metadata/
+*/bin/
+*/target/
+*/.settings/
+*.class
+*.bak
+*.log
