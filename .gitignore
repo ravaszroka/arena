@@ -6,3 +6,6 @@
 *.class
 *.bak
 *.log
+*.project
+*.classpath
+*~
